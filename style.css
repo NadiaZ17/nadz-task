@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    display: inline-block;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    display: inline;
+    font-size: 24px;
+}
+
+.resume-button {
+    float: right;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.intro {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #fff;
+}
+
+.intro .developer-image {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.intro h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.intro p {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.contact-button {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.why-web-development {
+    padding: 50px 0;
+    background-color: #f5f5f5;
+}
+
+.why-web-development h2 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.why-web-development p {
+    text-align: center;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.reasons {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.reason {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    width: 30%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.reason img {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.reason h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.reason p {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.learn-more-button {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
